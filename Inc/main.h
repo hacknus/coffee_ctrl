@@ -84,10 +84,6 @@ void Error_Handler(void);
 #define LED_SW1_GPIO_Port GPIOB
 #define SPI2_CS_Pin GPIO_PIN_12
 #define SPI2_CS_GPIO_Port GPIOB
-#define ENC_A_Pin GPIO_PIN_8
-#define ENC_A_GPIO_Port GPIOA
-#define ENC_B_Pin GPIO_PIN_15
-#define ENC_B_GPIO_Port GPIOA
 #define LED2_Pin GPIO_PIN_4
 #define LED2_GPIO_Port GPIOB
 #define LED1_Pin GPIO_PIN_5
